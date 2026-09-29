@@ -1,4 +1,4 @@
-# Домашнее задание к работе 2
+# Домашнее задание к работе 3
 
 ## Условие задачи
 
@@ -30,6 +30,7 @@
 8. **Конец.**
 
 ### Блок-схема
+<img width="1024" height="1536" alt="blokshema3" src="https://github.com/user-attachments/assets/cdc47a8b-260d-4ded-bfec-1387489ff971" />
 
 
 ---
