@@ -30,7 +30,7 @@
 8. **Конец.**
 
 ### Блок-схема
-<img width="1024" height="1536" alt="blokshema3" src="https://github.com/user-attachments/assets/cdc47a8b-260d-4ded-bfec-1387489ff971" />
+<img width="266" height="486" alt="blokshema3" src="https://github.com/user-attachments/assets/cdc47a8b-260d-4ded-bfec-1387489ff971" />
 
 
 ---
